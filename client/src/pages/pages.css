@@ -1,0 +1,26 @@
+.carousel-container {
+    width: 100%;
+    max-width: 60rem;
+    margin: auto;
+}
+
+.logoImgParent {
+    display: flex;
+    justify-content: center;
+}
+
+.logoImg {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.about-us-container {
+    width: 70%;
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+div>h2 {
+    margin-top: 10rem;
+}

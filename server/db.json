@@ -1,0 +1,613 @@
+{
+  "carousel": [
+    {
+      "path": "/images/carousel/cover3.png",
+      "name": "cover1"
+    },
+    {
+      "path": "/images/carousel/cover2.png",
+      "name": "cover2"
+    },
+    {
+      "path": "/images/carousel/cover4.png",
+      "name": "cover3"
+    },
+    {
+      "path": "/images/carousel/cover5.png",
+      "name": "cover4"
+    }
+  ],
+  "covoare": [
+    {
+      "id": 1,
+      "type": "Baie",
+      "name": "Covor pentru baie gri",
+      "price": 95,
+      "description": "Covorul are dimensiunea 60x90 cm și este din 100% poliester",
+      "img": "images/covoare/covor-baie1.jpg"
+    },
+    {
+      "id": 2,
+      "type": "Baie",
+      "name": "Covor pentru baie verde",
+      "price": 300,
+      "description": "Covorul are dimensiunea 60x100 cm și este din 100% poliester",
+      "img": "images/covoare/covor-baie2.jpg"
+    },
+    {
+      "id": 3,
+      "type": "Baie",
+      "name": "Covor pentru baie taupe",
+      "price": 100,
+      "description": "Covorul are dimensiunea de 80 cm diametru și este din 100% poliester",
+      "img": "images/covoare/covor-baie3.jpg"
+    },
+    {
+      "id": 4,
+      "type": "Baie",
+      "name": "Covor pentru baie bordo",
+      "price": 150,
+      "description": "Covorul are dimensiunea 60x60 cm și este din 100% poliester",
+      "img": "images/covoare/covor-baie4.jpg"
+    },
+    {
+      "id": 5,
+      "type": "Copii",
+      "name": "Covor Village",
+      "price": 150,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% poliester",
+      "img": "images/covoare/covor-copii1.jpg"
+    },
+    {
+      "id": 6,
+      "type": "Copii",
+      "name": "Covor Tree",
+      "price": 150,
+      "description": "Covorul are dimensiunea 80x150 scm șii este din 100% poliester",
+      "img": "images/covoare/covor-copii2.jpg"
+    },
+    {
+      "id": 7,
+      "type": "Copii",
+      "name": "Covor Jungle",
+      "price": 150,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% poliester",
+      "img": "images/covoare/covor-copii3.jpg"
+    },
+    {
+      "id": 8,
+      "type": "Copii",
+      "name": "Covor Fish",
+      "price": 150,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% poliester",
+      "img": "images/covoare/covor-copii4.jpg"
+    },
+    {
+      "id": 9,
+      "type": "Living",
+      "name": "Covor living maro inchis",
+      "price": 300,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% poliester",
+      "img": "images/covoare/covor-living1.jpg"
+    },
+    {
+      "id": 10,
+      "type": "Living",
+      "name": "Covor living gri închis",
+      "price": 800,
+      "description": "Covorul are dimensiunea 60x120 cm și este din 100% vîscoză",
+      "img": "images/covoare/covor-living2.jpg"
+    },
+    { 
+      "id": 11,
+      "type": "Living",
+      "name": "Covor living multicolor",
+      "price": 425,
+      "description": "Covorul are dimensiunea 70x130 cm și este din 100% lână",
+      "img": "images/covoare/covor-living3.jpg"
+    },
+    {
+      "id": 12,
+      "type": "Living",
+      "name": "Covor living",
+      "price": 450,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% vîscoză",
+      "img": "images/covoare/covor-living4.jpg"
+    },
+    {
+      "id": 13,
+      "type": "Bucătărie",
+      "name": "Covor bucătărie în nuanțe de maro",
+      "price": 165,
+      "description": "Covorul are dimensiunea 60x90 cm și este din 100% bumbac",
+      "img": "images/covoare/covor-bucatarie1.jpg"
+    },
+    {
+      "id": 14,
+      "type": "Bucătărie",
+      "name": "Covor bucătărie în nuanțe de albastru",
+      "price": 175,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% bumbac",
+      "img": "images/covoare/covor-bucatarie2.jpg"
+    },
+    {
+      "id": 15,
+      "type": "Bucătărie",
+      "name": "Covor bucătărie în nuanțe de galben",
+      "price": 185,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% bumbac",
+      "img": "images/covoare/covor-bucatarie3.jpg"
+    },
+    {
+      "id": 16,
+      "type": "Bucătărie",
+      "name": "Covor bucătărie în nuanțe de roșu",
+      "price": 185,
+      "description": "Covorul are dimensiunea 80x150 cm și este din 100% bumbac",
+      "img": "images/covoare/covor-bucatarie4.jpg"
+    }
+  ],
+  "paturi": [
+    {
+      "id": 17,
+      "type": "Copii",
+      "name": "Pat copii tip cort",
+      "price": 1950,
+      "description": "Pat copii tip cort de culoare albă",
+      "img": "images/paturi/pat-copii1.jpg"
+    },
+    {
+      "id": 18,
+      "type": "Copii",
+      "name": "Pat copii suprapus",
+      "price": 855,
+      "description": "Pat copii suprapus de culoare albă",
+      "img": "images/paturi/pat-copii2.jpg"
+    },
+    {
+      "id": 19,
+      "type": "Copii",
+      "name": "Pat copii Princess",
+      "price": 1365,
+      "description": "Pat copii de culoare roz",
+      "img": "images/paturi/pat-copii3.jpg"
+    },
+    {
+      "id": 20,
+      "type": "Copii",
+      "name": "Pat copii Car",
+      "price": 2135,
+      "description": "Pat copii de culoare roșie",
+      "img": "images/paturi/pat-copii4.jpg"
+    },
+    {
+      "id": 21,
+      "type": "Dormitor",
+      "name": "Pat dormitor 190x200",
+      "price": 4155,
+      "description": "Pat dormitor de culoare gri",
+      "img": "images/paturi/pat-dormitor1.jpg"
+    },
+    {
+      "id": 22,
+      "type": "Dormitor",
+      "name": "Pat dormitor 190x200",
+      "price": 2540,
+      "description": "Pat dormitor de culoare gri",
+      "img": "images/paturi/pat-dormitor2.jpg"
+    },
+    {
+      "id": 23,
+      "type": "Dormitor",
+      "name": "Pat dormitor de colț",
+      "price": 1950,
+      "description": "Pat dormitor de culoare portocalie",
+      "img": "images/paturi/pat-dormitor3.jpg"
+    },
+    {
+      "id": 24,
+      "type": "Dormitor",
+      "name": "Pat dormitor tapițat",
+      "price": 3450,
+      "description": "Pat dormitor de culoare gri",
+      "img": "images/paturi/pat-dormitor4.jpg"
+    }
+  ],
+  "dulapuri": [
+    {
+      "id": 25,
+      "type": "Dormitor",
+      "name": "Dulap cu 3 uși culisante",
+      "price": 12350,
+      "description": "Pat dormitor de culoare albă",
+      "img": "images/dulapuri/dulap-dormitor1.jpg"
+    },
+    {
+      "id": 26,
+      "type": "Dormitor",
+      "name": "Dulap cu 5 uși și 2 sertare",
+      "price": 4500,
+      "description": "Pat dormitor de culoare albă",
+      "img": "images/dulapuri/dulap-dormitor2.jpg"
+    },
+    {
+      "id": 27,
+      "type": "Dormitor",
+      "name": "Dulap cu 3 uși",
+      "price": 3450,
+      "description": "Pat dormitor de culoare gri, nuc",
+      "img": "images/dulapuri/dulap-dormitor3.jpg"
+    },
+    {
+      "id": 28,
+      "type": "Dormitor",
+      "name": "Dulap cu 6 uși",
+      "price": 5675,
+      "description": "Pat dormitor de culoare albă și maro",
+      "img": "images/dulapuri/dulap-dormitor4.jpg"
+    },
+    {
+      "id": 29,
+      "type": "Copii",
+      "name": "Dulap cu 2 uși și un sertar",
+      "price": 2540,
+      "description": "Pat dormitor de culoare albă și maro",
+      "img": "images/dulapuri/dulap-copii1.jpg"
+    },
+    {
+      "id": 30,
+      "type": "Copii",
+      "name": "Dulap cu 3 uși și 2 sertare",
+      "price": 2955,
+      "description": "Pat dormitor de culoare albă și roz",
+      "img": "images/dulapuri/dulap-copii2.jpg"
+    },
+    {
+      "id": 31,
+      "type": "Copii",
+      "name": "Dulap cu 2 uși ",
+      "price": 3145,
+      "description": "Pat dormitor de culoare albă și negru",
+      "img": "images/dulapuri/dulap-copii3.jpg"
+    },
+    {
+      "id": 32,
+      "type": "Copii",
+      "name": "Dulap cu 2 uși glisante",
+      "price": 4590,
+      "description": "Pat dormitor de culoare albă, gri și galben",
+      "img": "images/dulapuri/dulap-copii4.jpg"
+    },
+    {
+      "id": 33,
+      "type": "Baie",
+      "name": "Dulap baie",
+      "price": 975,
+      "description": "Dulap baie de culoare albă",
+      "img": "images/dulapuri/dulap-baie1.jpg"
+    },
+    {
+      "id": 34,
+      "type": "Baie",
+      "name": "Dulap baie îngust",
+      "price": 375,
+      "description": "Dulap baie de culoare albă",
+      "img": "images/dulapuri/dulap-baie2.jpg"
+    },
+    {
+      "id": 35,
+      "type": "Baie",
+      "name": "Dulap baie suspendat cu o ușă",
+      "price": 295,
+      "description": "Dulap baie de culoare albă",
+      "img": "images/dulapuri/dulap-baie3.jpg"
+    },
+    {
+      "id": 36,
+      "type": "Baie",
+      "name": "Dulap baie suspendat cu oglindă LED",
+      "price": 550,
+      "description": "Dulap baie de culoare albă",
+      "img": "images/dulapuri/dulap-baie4.jpg"
+    }
+  ],
+  "comode": [
+    {
+      "id": 37,
+      "type": "Copii",
+      "name": "Comodă copii cu 3 uși",
+      "price": 1530,
+      "description": "Comodă copii de culoare albă",
+      "img": "images/comode/comoda-copii1.jpg"
+    },
+    {
+      "id": 38,
+      "type": "Copii",
+      "name": "Comodă copii cu 2 uși",
+      "price": 1340,
+      "description": "Comodă copii de culoare albă",
+      "img": "images/comode/comoda-copii2.jpg"
+    },
+    {
+      "id": 39,
+      "type": "Living",
+      "name": "Comodă TV",
+      "price": 2975,
+      "description": "Comodă TV de culoare albă",
+      "img": "images/comode/comoda-living1.jpg"
+    },
+    {
+      "id": 40,
+      "type": "Living",
+      "name": "Comodă TV mare",
+      "price": 865,
+      "description": "Comodă TV multicoloră",
+      "img": "images/comode/comoda-living2.jpg"
+    },
+    {
+      "id": 41,
+      "type": "Dormitor",
+      "name": "Comodă cu 8 sertare",
+      "price": 3950,
+      "description": "Comodă de culoare chocolate",
+      "img": "images/comode/comoda-dormitor1.jpg"
+    },
+    {
+      "id": 42,
+      "type": "Dormitor",
+      "name": "Comodă cu 6 sertare",
+      "price": 975,
+      "description": "Comodă de culoarea nucului",
+      "img": "images/comode/comoda-dormitor2.jpg"
+    },
+    {
+      "id": 43,
+      "type": "Hol",
+      "name": "Comodă pantofi cu 5 uși și oglinzi",
+      "price": 755,
+      "description": "Comodă de pantofi de culoarea nucului",
+      "img": "images/comode/comoda-hol1.jpg"
+    },
+    {
+      "id": 44,
+      "type": "Hol",
+      "name": "Comodă pantofi cu 5 uși",
+      "price": 577,
+      "description": "Comodă de pantofi de culoarea nucului",
+      "img": "images/comode/comoda-hol2.jpg"
+    }
+  ],
+  "mese": [
+    {
+      "id": 45,
+      "type": "Living",
+      "name": "Măsuță de cafea",
+      "price": 1250,
+      "description": "Măsuță de cafea de culoarea nucului",
+      "img": "images/mese/masa-living1.jpg"
+    },
+    {
+      "id": 46,
+      "type": "Living",
+      "name": "Măsuță living",
+      "price": 1450,
+      "description": "Măsuță living de culoarea nucului",
+      "img": "images/mese/masa-living2.jpg"
+    },
+    {
+      "id": 47,
+      "type": "Bucătărie",
+      "name": "Masă bucătărie extensibilă alba",
+      "price": 2850,
+      "description": "Masă bucătărie extensibilă de culoare albă",
+      "img": "images/mese/masa-bucatarie1.jpg"
+    },
+    {
+      "id": 48,
+      "type": "Bucătărie",
+      "name": "Masă bucătărie extensibilă",
+      "price": 1540,
+      "description": "Masă bucătărie extensibilă de culoare crem",
+      "img": "images/mese/masa-bucatarie2.jpg"
+    },
+    {
+      "id": 49,
+      "type": "Birou",
+      "name": "Masă discuții",
+      "price": 5430,
+      "description": "Masă de discuții de culoare stejar alb",
+      "img": "images/mese/masa-birou1.jpg"
+    },
+    {
+      "id": 50,
+      "type": "Birou",
+      "name": "Masă consiliu",
+      "price": 3450,
+      "description": "Masă de consiliu de culoare nuc negru",
+      "img": "images/mese/masa-birou2.jpg"
+    }
+  ],
+  "oglinzi": [
+    {
+      "id": 51,
+      "type": "Baie",
+      "name": "Oglindă circulară cu LED",
+      "price": 1150,
+      "description": "Oglindă circulară cu LED de culoare albă",
+      "img": "images/oglinzi/oglinda-baie1.jpg"
+    },
+    {
+      "id": 52,
+      "type": "Baie",
+      "name": "Oglindă baie",
+      "price": 500,
+      "description": "Oglindă de culoare albă",
+      "img": "images/oglinzi/oglinda-baie2.jpg"
+    },
+    {
+      "id": 53,
+      "type": "Hol",
+      "name": "Oglindă",
+      "price": 495,
+      "description": "Oglindă de culoare argintie",
+      "img": "images/oglinzi/oglinda-hol1.jpg"
+    },
+    {
+      "id": 54,
+      "type": "Hol",
+      "name": "Oglindă pentru hol",
+      "price": 659,
+      "description": "Oglindă de culoare argintie",
+      "img": "images/oglinzi/oglinda-hol2.jpg"
+    },
+    {
+      "id": 55,
+      "type": "Dormitor",
+      "name": "Oglindă de podea pentru dormitor ",
+      "price": 450,
+      "description": "Oglindă de culoare argintie",
+      "img": "images/oglinzi/oglinda-dormitor1.jpg"
+    },
+    {
+      "id": 56,
+      "type": "Hol",
+      "name": "Oglindă de perete pentru dormitor",
+      "price": 1325,
+      "description": "Oglindă de culoarea cireșului",
+      "img": "images/oglinzi/oglinda-dormitor2.jpg"
+    }
+  ],
+  "scaune": [
+    {
+      "id": 57,
+      "type": "Copii",
+      "name": "Scaun balansoar",
+      "price": 1150,
+      "description": "Scaun balansoar copii de culoare bej",
+      "img": "images/scaune/scaun-copii1.jpg"
+    },
+    {
+      "id": 58,
+      "type": "Copii",
+      "name": "Scaun de joacă",
+      "price": 245,
+      "description": "Scaun de joacî pentru copii de culoare galbenă",
+      "img": "images/scaune/scaun-copii2.jpg"
+    },
+    {
+      "id": 59,
+      "type": "Bucătărie",
+      "name": "Scaun pliabil",
+      "price": 325,
+      "description": "Scaun pliabil de culoare crem și maro",
+      "img": "images/scaune/scaun-bucatarie1.jpg"
+    },
+    {
+      "id": 60,
+      "type": "Bucătărie",
+      "name": "Scaun bucătărie alb",
+      "price": 750,
+      "description": "Scaun bucătărie de culoare albă",
+      "img": "images/scaune/scaun-bucatarie2.jpg"
+    },
+    {
+      "id": 61,
+      "type": "Bucătărie",
+      "name": "Scaun bucătărie din imitație de piele",
+      "price": 445,
+      "description": "Scaun bucatarie de culoare bej",
+      "img": "images/scaune/scaun-bucatarie3.jpg"
+    },
+    {
+      "id": 62,
+      "type": "Living",
+      "name": "Scaun living din stofă și lemn masiv",
+      "price": 875,
+      "description": "Scaun living de culoare verde închis",
+      "img": "images/scaune/scaun-living1.jpg"
+    },
+    {
+      "id": 63,
+      "type": "Living",
+      "name": "Scaun living din stofă",
+      "price": 1975,
+      "description": "Scaun living de culoare neagră",
+      "img": "images/scaune/scaun-living2.jpg"
+    },
+    {
+      "id": 64,
+      "type": "Birou",
+      "name": "Scaun managerial din imitație de piele",
+      "price": 2150,
+      "description": "Scaun managerial de culoare neagră",
+      "img": "images/scaune/scaun-birou1.jpg"
+    },
+    {
+      "id": 65,
+      "type": "Birou",
+      "name": "Scaun managerial din piele",
+      "price": 3195,
+      "description": "Scaun managerial de culoare neagră",
+      "img": "images/scaune/scaun-birou1.jpg"
+    }
+  ],
+  "canapele": [
+    {
+      "id": 66,
+      "type": "Living",
+      "name": "Canapea din stofă cu 3 locuri",
+      "price": 4250,
+      "description": "Canapea din stofă cu 3 locuri de culoare bej",
+      "img": "images/canapele/canapea1.jpg"
+    },
+    {
+      "id": 67,
+      "type": "Living",
+      "name": "Canapea din stofă cu 3 locuri și 2 perne",
+      "price": 5790,
+      "description": "Canapea din stofă cu 3 locuri de culoare bej",
+      "img": "images/canapele/canapea2.jpg"
+    },
+    {
+      "id": 68,
+      "type": "Living",
+      "name": "Canapea din stofă cu 4 locuri",
+      "price": 3790,
+      "description": "Canapea din stofă cu 3 locuri de culoare chocolate",
+      "img": "images/canapele/canapea3.jpg"
+    },
+    {
+      "id": 69,
+      "type": "Living",
+      "name": "Canapea Chesterfield cu 3 locuri",
+      "price": 3950,
+      "description": "Canapea din stofă cu 3 locuri de culoare verde",
+      "img": "images/canapele/canapea4.jpg"
+    }
+  ],
+  "product-type": [
+    "Baie",
+    "Living",
+    "Bucătărie",
+    "Birou",
+    "Dormitor",
+    "Hol",
+    "Copii"
+  ],
+  "product-categories": [
+    "Covoare",
+    "Paturi",
+    "Dulapuri",
+    "Comode",
+    "Mese",
+    "Oglinzi",
+    "Scaune",
+    "Canapele"
+  ],
+  "table-head": [
+    "Imaginea produsului",
+    "Denumirea produsului",
+    "Cantitate",
+    "Preț"
+  ]
+}
