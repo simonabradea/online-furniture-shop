@@ -8,7 +8,7 @@ const CustomCard = (props) => {
             <Card.Body>
                 <Card.Title>{props.title}</Card.Title>
                 <Card.Text>{props.children}</Card.Text>
-                {props.showButton && <Button variant="primary" onClick={props.buttononClick}>{props.buttonLabel}</Button>}
+                {props.showButton && <Button variant="dark" onClick={props.buttononClick}>{props.buttonLabel}</Button>}
             </Card.Body>
         </Card>
     )

@@ -24,3 +24,31 @@
 div>h2 {
     margin-top: 10rem;
 }
+
+.total-input {
+    float: right;
+}
+
+.order-img {
+    width:30%;
+    height: auto;
+    float: left;
+}
+
+@media all and (max-width: 480px) {
+    .order-img {
+        width:100%;
+        margin-bottom: 5rem;
+    } 
+}
+
+.order-form {
+    height: 100%;
+    align-items: center;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}

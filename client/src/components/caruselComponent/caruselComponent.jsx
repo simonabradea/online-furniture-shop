@@ -4,7 +4,7 @@ import { Carousel } from 'react-bootstrap';
 
 const Carusel = (props) => {
     return (
-        <Carousel interval={null}>
+        <Carousel > {/*interval={null}*/}
             {props.imgs.map(image => (<Carousel.Item key={image.path}>
                 <img src={image.path} alt="..." width="100%" height="auto" />
             </Carousel.Item>))}

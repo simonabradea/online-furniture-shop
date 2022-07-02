@@ -5,12 +5,12 @@ const Login = () => {
     return (
         <>
             <Container>
-                <div className="logoImgParent">
-                    <img className="logoImg" src="images/logo/logo.png" alt="logo"></img>
+                <div className="logoImgParent mt-5">
+                    <img className="logoImg mb-3" src="images/logo/logo.png" alt="logo"></img>
                 </div>
-                <h3 className="text-center">Autentificare:</h3>
+                <h3 className="text-center mb-3">Autentificare:</h3>
                 <Row>
-                    <Col lg={5} md={6} sm={12} className="p-5 m-auto shadow-sm rounded-lg">
+                    <Col lg={5} md={6} sm={12} className="p-5 m-auto shadow-lg rounded-lg">
                         <Form>
                             <Form.Group className='mb-3' controlId="formBasicEmail">
                                 <Form.Label>Email:</Form.Label>

@@ -2,15 +2,17 @@ import { Button, Container, Row, Col, Form } from "react-bootstrap";
 import './pages.css';
 
 const Register = () => {
+
+    
     return (
         <>
             <Container>
-                <div className="logoImgParent">
-                    <img className="logoImg" src="images/logo/logo.png" alt="logo"></img>
+                <div className="logoImgParent mt-5">
+                    <img className="logoImg mb-3" src="images/logo/logo.png" alt="logo"></img>
                 </div>
-                <h3 className="text-center">Înregistrare:</h3>
+                <h3 className="text-center mb-3">Înregistrare:</h3>
                 <Row>
-                    <Col lg={5} md={6} sm={12} className="p-5 m-auto shadow-sm rounded-lg">
+                    <Col lg={5} md={6} sm={12} className="p-5 m-auto shadow-lg rounded-lg">
                         <Form>
                             <Form.Group className='mb-2' controlId="formBasicEmail">
                                 <Form.Label>Nume</Form.Label>

@@ -1,5 +1,4 @@
 import { useEffect, useState, useRef } from 'react';
-//import { useNavigate } from 'react-router-dom';
 import { Tabs, Tab } from 'react-bootstrap';
 import { getProducts, getProductCategories } from '../services/api';
 import { useSearchParams } from 'react-router-dom';
@@ -16,8 +15,6 @@ const Products = () => {
     const [searchParams] = useSearchParams();
 
     const urlParams = Object.fromEntries([...searchParams]);
-
-    //const navigate = useNavigate();
 
     useEffect(() => {
         getProductCategories()
@@ -47,9 +44,25 @@ const Products = () => {
         localStorage.setItem('cart', JSON.stringify(cartList.current))
     }
 
+    
+    // const handleAddedProduct = (product) => {
+    //     const existentProduct = tableData.find((item) => item.id === product.id);
+    //     if(existentProduct){
+    //         setTableData(
+    //             tableData.map((item) =>
+    //                 item.id === product.id
+    //                 ? {...existentProduct, cantitate: existentProduct.cantitate + 1 }
+    //                 : item
+    //                 )
+    //         );
+    //     }else{
+    //         setTableData([...tableData, {...product, cantitate: 1}]);
+    //     }         
+    //}
+
     return (
         <div>
-            <Tabs defaultActiveKey={productCategories[0]} id="uncontrolled-tab-example" className="mb-3" onSelect={handleTabOnChange}>
+            <Tabs fill defaultActiveKey={productCategories[0]} id="uncontrolled-tab-example" className="mb-3" onSelect={handleTabOnChange}>
                 {(productCategories && productCategories.length > 0) && productCategories.map(cat => (
                     <Tab key={cat} eventKey={cat} title={cat}>
                         <div className="d-flex flex-wrap justify-content-center">
