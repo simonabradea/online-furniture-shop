@@ -44,22 +44,6 @@ const Products = () => {
         localStorage.setItem('cart', JSON.stringify(cartList.current))
     }
 
-    
-    // const handleAddedProduct = (product) => {
-    //     const existentProduct = tableData.find((item) => item.id === product.id);
-    //     if(existentProduct){
-    //         setTableData(
-    //             tableData.map((item) =>
-    //                 item.id === product.id
-    //                 ? {...existentProduct, cantitate: existentProduct.cantitate + 1 }
-    //                 : item
-    //                 )
-    //         );
-    //     }else{
-    //         setTableData([...tableData, {...product, cantitate: 1}]);
-    //     }         
-    //}
-
     return (
         <div>
             <Tabs fill defaultActiveKey={productCategories[0]} id="uncontrolled-tab-example" className="mb-3" onSelect={handleTabOnChange}>
